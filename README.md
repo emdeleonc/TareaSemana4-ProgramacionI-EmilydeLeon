@@ -1,2 +1,5 @@
 # TareaSemana4-ProgramacionI-EmilydeLeon
+Emily Jimena de León Caminade
+9941-25-13659
+
 En este código, en primer lugar declaramos las variables a utilizar según el tipo de dato con el que trebejaremos. Siendo estos string(nombre), double(precio, subtotal, iva, total), int(cantidad). Esto es así debido al uso o no de decimales en cada una de las variables. Luego solicitamos el ingreso de datos por medio de cout y cin, asignando a cada variable un valor por medio del ingreso del usuario. Luego de haber ingresado los datos hacemos las operaciones correspondientes, siendo estas subtotal=precio*cantidad para obtener el valor total de la compra, iva=subtotal*0.12 para calcular el valor del IVA aplicado, y por último total=subtotal+IVA para el valor final de los productos con IVA. Por último se utilizará cin y cout para mostrar los cálculos y fixed junto con setpresition para mostrar los valores solamente con 2 decimales.
